@@ -1,4 +1,4 @@
-# Week one C notes
+// Week one C notes
 
 Stratch Say(hello, world)
 
@@ -45,3 +45,15 @@ else {
 printf("x is equal to y\n");
 }
 ```
+
+```C
+#include<stdio.h>
+int main(void) {
+printf("hello,world\n");
+}
+```
+
+```C
+
+```
+
